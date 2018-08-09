@@ -1,0 +1,10 @@
+sentdex's OpenCV tutorial:==============================================
+
+In web version (button for the next tutorial is at the bottom):
+https://pythonprogramming.net/loading-images-python-opencv-tutorial/
+In video version:
+https://www.youtube.com/watch?v=Z78zbnLlPUA&index=1&list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq
+
+He also has tutorials for Tensorflow (Deep Learning with Neural Networks)
+
+========================================================================
